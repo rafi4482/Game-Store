@@ -48,7 +48,7 @@ body {
 }
 
 .hero {
-  background: url('https://images.unsplash.com/photo-1718397363344-8caacba3a5bd?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') no-repeat center center/cover;
+  background: url('https://source.unsplash.com/random/1200x400/?video-game') no-repeat center center/cover;
   height: 400px;
   display: flex;
   align-items: center;
